@@ -63,7 +63,11 @@ figcaption {
     padding: 0.2%;
 }
 
-#pad {
+#start_pad {
+    padding-top: 0.83%;
+}
+
+#end_pad {
     padding-top: 0.83%;
 }
 
